@@ -2,7 +2,7 @@
   "name": "react-tasks-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cotito27.github.io/react-example",
+  "homepage": "http://Cotito27.github.io/react-example",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
